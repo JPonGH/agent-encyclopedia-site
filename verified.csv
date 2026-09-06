@@ -1,0 +1,193 @@
+Name,URL,Category,License,Pricing,Execution Model,Tier,Evidence,Last Checked
+1Code,https://1code.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK,2026-09-06
+Agent Zero,https://github.com/frdel/agent-zero,Coding Agent,Open Source,Free,Self-Hosted,green,[Active] HTTP 200 OK,2026-09-06
+AgentsRoom,https://agentsroom.com,Coding Agent,Proprietary,Free,Local,green,[Unknown] agentsroom.com TLS EOF from probe egress,2026-09-06
+AgentWrapper Orchestrator,https://github.com/AgentWrapper/agent-orchestrator,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Aider,https://aider.chat/,Coding Agent,Open Source,Free (BYOK),CLI,green,[Active] HTTP 200 OK; title=Aider - AI Pair Programming in Your Terminal,2026-09-06
+All Hands OpenHands Cloud,https://www.openhands.dev/,Coding Agent,Open-Core,Free (BYOK),Hybrid,green,[Active] HTTP 200 OK; title=OpenHands | The Open Platform for Cloud Coding Agents,2026-09-06
+Amazon Q Developer CLI,https://aws.amazon.com/q/developer/,Coding Agent,Open Source,Freemium,Cloud,green,[Active] HTTP 200 OK,2026-09-06
+Amp (formerly Sourcegraph Amp),https://ampcode.com/,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] ampcode.com 200,2026-09-06
+Ant CodeFuse (蚂蚁 CodeFuse),https://codefuse.ai,Coding Agent,,,,green,[NEW vs seed] [Active] Ant Group open-source code LLM + muAgent multi-agent DevOps framework / ChatBot. Alive industrial OSS coding-agent stack. Missing from seed.,2026-09-06
+async-code,https://github.com/ObservedObserver/async-code,Coding Agent,Open Source,Free,Cloud,green,[Active] HTTP 200 OK,2026-09-06
+Auggie CLI,https://github.com/AugmentCode/auggie,Coding Agent,,,,green,[NEW vs seed] [Active] Augment terminal agent [lane4 live verify],2026-09-06
+Augment Code,https://augmentcode.com,Coding Agent,Proprietary,Subscription,IDE Extension,green,[Active] www.augmentcode.com 200; organizational agentic coding platform | Augment platform live; remote/cloud agents,2026-09-06
+Augment Cosmos,https://www.augmentcode.com/product/cosmos,Coding Agent,,,,green,"[NEW vs seed] [Active] Augment's agentic SE OS / control plane: Experts, Environments (cloud VMs), Triggers, Automations, shared memory. Fleet orchestration across SDLC; mobile/Slack/web. Public preview ~May 2026. MISSING from seed as Cosmos.",2026-09-06
+Augment Intent,https://intentapp.dev,Coding Agent,,,,green,"[NEW vs seed] [Active] macOS desktop multi-agent orchestration workspace (public beta). Living spec + Coordinator/Implementor/Verifier; parallel git worktrees; BYOA (Claude Code, Codex, OpenCode). Domain also intentapp.dev. MISSING from seed.",2026-09-06
+avante.nvim,https://github.com/yetone/avante.nvim,Coding Agent,Open Source,Free (BYOK),Hybrid,green,[Active] HTTP 200 OK,2026-09-06
+Baidu Comate,https://comate.baidu.com,Coding Agent,Proprietary,Free,IDE Extension,green,[Active] HTTP 200 OK,2026-09-06
+Beads,https://github.com/steveyegge/beads,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Bito,https://bito.ai/,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] HTTP 200 OK,2026-09-06
+Blackbox AI,https://www.blackbox.ai/,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] HTTP 200 OK; title=Blackbox: The high-trust platform for frontier inference,2026-09-06
+Blitzy,https://blitzy.com,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=Blitzy: AI-Powered Autonomous Software Development Platform,2026-09-06
+Boxes.dev,https://boxes.dev,Coding Agent,,,,green,[NEW vs seed] [Active] Show HN 105/79 (2026-06-04). Cloud-only ADE for Claude Code/Codex; desktop+mobile.,2026-09-06
+Broccoli,https://github.com/besimple-oss/broccoli,Coding Agent,Open Source,Free,Self-Hosted,green,[Active] HTTP 200 OK,2026-09-06
+Capy,https://capy.ai/,Coding Agent,,,,green,[NEW vs seed] [Active] Browser orchestration for parallel cloud coding agents (Captain/Build/Review roles) with isolated VMs and PR workflow.,2026-09-06
+ccmanager,https://github.com/kbwo/ccmanager,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Charlie Labs Daemons,https://charlielabs.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=Daemons work 24/7. No prompts required. | Charlie Labs,2026-09-06
+Claude Code,https://code.claude.com/,Coding Agent,Open-Core,Pay-per-Use,Cloud,green,"[Active] HTTP 200; redirects to https://claude.com/product/claude-code; title=Claude Code by Anthropic | AI Coding Agent, Terminal, IDE",2026-09-06
+Claw Code,https://github.com/ultraworkers/claw-code,Coding Agent,,,,green,[NEW vs seed] [Active] OSS Claude-style agent [lane4 live verify],2026-09-06
+Cline,https://cline.bot/,Coding Agent,Open Source,Free,CLI,green,"[Active] HTTP 200 OK; title=Cline - AI Coding, Open Source and Uncompromised",2026-09-06
+cmux,https://news.ycombinator.com/item?id=47079718,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK; title=Show HN: cmux - Ghostty-based terminal with vertical tabs and notifications | Hacker News | HTTP 200 OK; title=6 Practices that turned AI from prototyper to workhorse (106 PRs in 14 days) | Hacker News | HTTP 200 OK; title=Show HN: Lessons learned from running Claude Code swarms at scale | Hacker News | HTTP 200 OK; title=Ask HN: Are you using an agent orchestrator to write code? | Hacker News,2026-09-06
+CodeBuddy Code,https://www.codebuddy.ai,Coding Agent,,,,green,[NEW vs seed] [Active] Tencent Cloud CLI+IDE [lane4 live verify],2026-09-06
+Codebuff,https://codebuff.com,Coding Agent,Proprietary,Free,CLI,green,[Active] HTTP 200; redirects to https://www.codebuff.com/; title=Codebuff – AI Coding Assistant for Your Terminal,2026-09-06
+CodeGeeX (智谱 CodeGeeX),https://codegeex.cn,Coding Agent,,,,green,"[NEW vs seed] [Active] Zhipu/Z.ai long-running IDE coding assistant (VS Code etc.), GLM-backed. Alive. Missing from seed.",2026-09-06
+CodeMender,https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/,Coding Agent,Proprietary,Enterprise,Cloud,green,[Active] HTTP 200 OK; title=Introducing CodeMender: an AI agent for code security — Google DeepMind,2026-09-06
+CodeRabbit,https://coderabbit.ai/,Coding Agent,Open-Core,Freemium,Cloud,green,[Active] HTTP 200; redirects to https://www.coderabbit.ai/; title=AI Code Reviews | CodeRabbit | Try for Free.,2026-09-06
+CodeWhale,https://github.com/Hmbown/CodeWhale,Coding Agent,,,,green,[NEW vs seed] [Active] Rust TUI coding agent [lane4 live verify],2026-09-06
+Codex CLI,https://developers.openai.com/codex/cli,Coding Agent,Open Source,Pay-per-Use,Cloud,green,[Active] docs redirect to learn.chatgpt.com/docs/codex/cli 200,2026-09-06
+Continue,https://www.continue.dev/,Coding Agent,Open Source,Free,CLI,green,[Acquired] continue.dev title says acquired by Cursor,2026-09-06
+Cosine Genie,https://cosine.sh/,Coding Agent,Proprietary,Enterprise,Cloud,green,[Active] HTTP 200 OK; title=The Sovereign AI Lab | Cosine,2026-09-06
+Crush,https://github.com/charmbracelet/crush,Coding Agent,,,,green,[NEW vs seed] [Active] Charmbracelet coding TUI [lane4 live verify],2026-09-06
+Crystal,https://github.com/stravu/crystal,Coding Agent,Open Source,Free,Local,green,[Active] HTTP 200 OK,2026-09-06
+Cursor,https://cursor.com,Coding Agent,Proprietary,Free,IDE Extension,green,[Active] cursor.com 200; cloud/background agents exist,2026-09-06
+Deep Agents,https://github.com/langchain-ai/deepagents,Coding Agent,,,,green,[NEW vs seed] [Active] LangChain coding harness [lane4 live verify],2026-09-06
+DeepSeek Harness,https://github.com/deepseek-ai/DeepSeek-Harness,Coding Agent,,,,green,[NEW vs seed] [Active] DeepSeek OSS harness [lane4 live verify],2026-09-06
+DevChat,https://devchat.ai,Coding Agent,Open Source,Free,IDE Extension,green,[Active] HTTP 200 OK,2026-09-06
+Devika,https://github.com/stitionai/devika,Coding Agent,Open Source,Free,Local,green,[Active] HTTP 200 OK,2026-09-06
+Devin,https://devin.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] devin.ai alive (bot 429); Windsurf now Devin Desktop,2026-09-06
+ECC,https://github.com/affaan-m/ECC,Coding Agent,,,,green,[NEW vs seed] [Active] Trending harness [lane4 live verify],2026-09-06
+Eigent,https://eigent.ai,Coding Agent,Open Source,Free,Local,green,[Active] HTTP 200; redirects to https://www.eigent.ai/,2026-09-06
+Ellipsis,https://www.ellipsis.dev/,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] HTTP 200 OK; title=Ellipsis | Managed Cloud for Coding Agents,2026-09-06
+Emdash,https://emdash.ai,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200; redirects to https://emdash.com/; title=Emdash — Open-Source Agentic Development Environment,2026-09-06
+Emergent,https://emergent.sh,Coding Agent,Proprietary,Free,Cloud,green,[Active] HTTP 200 OK; title=Emergent&#x27;s Dynamite Site,2026-09-06
+Factory AI,https://factory.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] factory.ai 200 Agent-Native Software Development,2026-09-06
+Factory Droids,https://factory.ai/product/droids,Coding Agent,Proprietary,Enterprise,Cloud,green,[Active] factory.ai/product/droids 200; Droid CLI live,2026-09-06
+Fitten Code,https://code.fittentech.com,Coding Agent,Proprietary,Freemium,IDE Extension,green,[Active] HTTP 200 OK,2026-09-06
+Flock,https://flock.dev,Coding Agent,Open Source,Free,Local,green,[Active] HTTP 200 OK; title=flock.dev for sale | Spaceship.com,2026-09-06
+Gemini CLI,https://geminicli.com/,Coding Agent,Open Source,Freemium,Cloud,green,[Pivoted] geminicli.com 200; consumer path transitioning to Antigravity CLI,2026-09-06
+GitHub Copilot,https://github.com/features/copilot,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] HTTP 200 OK,2026-09-06
+Google Jules,https://github.com/google-labs-code/jules-sdk,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] seed is jules-sdk github; product jules.google 200,2026-09-06
+Goose,https://goose-docs.ai/,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK; title=goose | Your open source AI agent,2026-09-06
+gptel,https://github.com/karthink/gptel,Coding Agent,Open Source,Free (BYOK),Hybrid,green,[Active] HTTP 200 OK,2026-09-06
+Greptile,https://www.greptile.com/,Coding Agent,Proprietary,Subscription,Self-Hosted,green,"[Active] HTTP 200 OK; title=AI Code Review | Greptile | Merge 4X Faster, Catch 3X More Bugs",2026-09-06
+Grok Build,https://x.ai/build,Coding Agent,Open-Core,Pay-per-Use,Cloud,green,[Active] x.ai/build + github.com/xai-org/grok-build; also x.ai/cli. [Active] x.ai/cli -> x.ai/build 200; github.com/xai-org/grok-build 200,2026-09-06
+Hermes Agent,https://github.com/NousResearch/hermes-agent,Coding Agent,,,,green,[NEW vs seed] [Active] Nous CLI agent [lane4 live verify],2026-09-06
+Hive,https://github.com/nwyin/hive,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Hoplite,https://hoplite.sh,Coding Agent,,,,green,[NEW vs seed] [Active] Launch HN YC S26 81/70 (2026-08-03). Cloud coding agents with custom harness and QA tooling.,2026-09-06
+Huawei CodeArts Agent (华为云码道),https://codearts.huaweicloud.com,Coding Agent,,,,green,"[NEW vs seed] [Active] Huawei Cloud coding agent: IDE/extensions/CLI/Space, Agent Team, Codebase indexing, GLM/DeepSeek/Pangu routing. Commercializing mid-2026; intl open beta. Alive. Missing from seed.",2026-09-06
+iFlyCode (讯飞星火 iFlyCode),https://www.xfyun.cn/solutions/iflycode,Coding Agent,,,,green,[NEW vs seed] [Active] iFlytek Spark-based intelligent programming assistant; agent-style chat + generation/tests/review. Alive. Missing from seed.,2026-09-06
+Ito,https://ito.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200; redirects to https://www.ito.ai/; title=Runtime Code Review That Runs Your App on Every PR | Ito,2026-09-06
+jcode,https://github.com/1jehuang/jcode,Coding Agent,,,,green,[NEW vs seed] [Active] RAM-efficient harness [lane4 live verify],2026-09-06
+JetBrains AI Assistant,https://www.jetbrains.com/ai-ides/,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] HTTP 200 OK; title=AI in JetBrains IDEs,2026-09-06
+Kilo Code,https://kilocode.ai,Coding Agent,Open Source,Free,IDE Extension,green,[Active] kilocode.ai -> kilo.ai 200,2026-09-06
+Kimi CLI,https://github.com/MoonshotAI/kimi-cli,Coding Agent,,,,green,[NEW vs seed] [Active] Moonshot official CLI [lane4 live verify],2026-09-06
+Kimi Code (Kimi Code CLI / 月之暗面),https://www.kimi.com/code,Coding Agent,,,,green,"[NEW vs seed] [Active] Moonshot AI terminal coding agent. Subagents, MCP, ACP IDE integration. Models K3 / K2.7 Code. MIT OSS. Alive. Missing from seed as dedicated product.",2026-09-06
+Kiro,https://kiro.dev,Coding Agent,Proprietary,Free,IDE Extension,green,[Active] HTTP 200 OK; title=Kiro: Move beyond AI coding to agentic engineering,2026-09-06
+LogiCoal,https://logicoal.ai,Coding Agent,Proprietary,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Meituan CatPaw (美团猫爪),https://catpaw.meituan.com,Coding Agent,,,,green,"[NEW vs seed] [Active] Meituan AI-native IDE / full-scenario Agent platform on LongCat models; Ask/Agent modes, MCP. Alive. Missing from seed.",2026-09-06
+Melty,https://melty.sh,Coding Agent,Open Source,Free,IDE Extension,green,[Pivoted] melty.sh redirects to conductor.build,2026-09-06
+meridian,https://github.com/rynfar/meridian,Coding Agent,Open Source,Freemium,CLI,green,[Active] HTTP 200 OK,2026-09-06
+MiMo Code,https://github.com/XiaomiMiMo/MiMo-Code,Coding Agent,,,,green,[NEW vs seed] [Active] Xiaomi official CLI [lane4 live verify],2026-09-06
+MiniMax Code (稀宇 MiniMax Code),https://agent.minimaxi.com,Coding Agent,,,,green,"[NEW vs seed] [Active] MiniMax desktop AI agent with Coding/Work modes, local project tools, browser, remote control. M-series models. Alive. Missing from seed.",2026-09-06
+Momentic AI,https://momentic.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=AI Testing Platform for Web &amp; Mobile | Momentic,2026-09-06
+Mozzie,https://mozzie.dev,Coding Agent,Proprietary,Free,Local,green,[Active] HTTP 200 OK; title=mozzie — beautiful AI landing pages in seconds,2026-09-06
+Niteshift,https://docs.niteshift.dev/,Coding Agent,,,,green,[NEW vs seed] [Active] Cloud coding agent sessions with preview/browser automation; Slack/GitHub triggers; BYOA; GA Jun 2026 Greylock-backed.,2026-09-06
+NXCode,https://www.nxcode.io,Coding Agent,Proprietary,Free,IDE Extension,green,[Active] HTTP 200 OK; title=AI App Builder | Build Apps Without Coding 2026 | NxCode,2026-09-06
+Oh My OpenAgent,https://github.com/code-yeongyu/oh-my-openagent,Coding Agent,,,,green,[NEW vs seed] [Active] Multi-harness agent OS [lane4 live verify],2026-09-06
+oh-my-claudecode,https://github.com/Yeachan-Heo/oh-my-claudecode,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Oh-My-Pi,https://github.com/can1357/oh-my-pi,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Omnara,https://omnara.app,Coding Agent,Proprietary,Free,Cloud,green,[Active] HTTP 200; redirects to https://www.omnara.com/; title=Omnara — The open-source alternative to Claude Managed Agents,2026-09-06
+Ona,https://ona.com/docs,Coding Agent,Proprietary,Enterprise,Cloud,green,[Active] HTTP 200 OK; title=Overview - Ona Documentation,2026-09-06
+Open Interpreter,https://github.com/OpenInterpreter/open-interpreter,Coding Agent,,,,green,[NEW vs seed] [Active] Local code-exec agent [lane4 live verify],2026-09-06
+OpenAI Codex,https://openai.com/codex,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] openai.com/codex 200,2026-09-06
+OpenAI-sublime-text,https://github.com/yaroslavyaroslav/OpenAI-sublime-text,Coding Agent,Open Source,Free (BYOK),Hybrid,green,[Active] HTTP 200 OK,2026-09-06
+OpenCode,https://opencode.ai/,Coding Agent,Open Source,Subscription,CLI,green,[Active] opencode.ai 200; seed Deprecated may be stale,2026-09-06
+OpenRig,https://openrig.dev,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200; redirects to https://www.openrig.dev/; title=OpenRig — Local control plane for multi-agent coding topologies,2026-09-06
+Paseo,https://github.com/getpaseo/paseo,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+Pi,https://github.com/badlogic/pi-mono,Coding Agent,,,,green,[NEW vs seed] [Active] Minimal coding harness [lane4 live verify],2026-09-06
+Pieces for Developers,https://pieces.app,Coding Agent,Proprietary,Free,Local,green,[Active] HTTP 200 OK; title=Pieces — The AI memory layer for modern work,2026-09-06
+Plandex,https://github.com/plandex-ai/plandex,Coding Agent,Open Source,Free,Cloud,green,[Active] github plandex-ai/plandex 200; plandex.ai DNS fail,2026-09-06
+PostQode,https://postqode.ai,Coding Agent,Proprietary,Freemium,CLI,green,[Active] HTTP 200 OK; title=PostQode — AI-Powered Software Engineering,2026-09-06
+Potpie AI,https://potpie.ai,Coding Agent,Open Source,Free,Self-Hosted,green,[Active] HTTP 200 OK; title=Potpie,2026-09-06
+Prime Agent,https://github.com/PrimeIntellect-ai/prime-agent,Coding Agent,,,,green,[NEW vs seed] [Active] Self-improving RLM agent [lane4 live verify],2026-09-06
+Qoder,https://qoder.com/en,Coding Agent,Proprietary,,Cloud,green,[NEW vs seed / pivot] [Active] Alibaba Tongyi Lingma rebranded/pivoted to Qoder CN.,2026-09-06
+Qodo,https://www.qodo.ai/,Coding Agent,Open-Core,Freemium,Self-Hosted,green,[Active] HTTP 200 OK,2026-09-06
+Qodo Merge (formerly PR-Agent),https://www.qodo.ai/formerly-qodo-merge/,Coding Agent,Open-Core,Freemium,Hybrid,green,[Active] HTTP 200 OK,2026-09-06
+Qwen Code,https://github.com/QwenLM/qwen-code,Coding Agent,Open Source,Free,CLI,green,[Active] Correct terminal coding agent repo is QwenLM/qwen-code (seed wrongly pointed at Qwen-Agent framework). [Active] github.com/QwenLM/qwen-code is real agent; seed URL is Qwen-Agent,2026-09-06
+Reasonix,https://github.com/esengine/DeepSeek-Reasonix,Coding Agent,,,,green,[NEW vs seed] [Active] DeepSeek-native Go agent [lane4 live verify],2026-09-06
+Refact.ai,https://refact.ai,Coding Agent,Open Source,Free,Self-Hosted,green,[Active] HTTP 200 OK; title=AI Coding Agent for Software Development - Refact.ai - Refact.ai,2026-09-06
+Reflection AI Asimov,https://reflection.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=Reflection,2026-09-06
+Replicas,https://tryreplicas.com/,Coding Agent,,,,green,[NEW vs seed] [Active] Isolated Linux VMs for Claude Code/Codex/OpenCode/Cursor/Pi; Slack/Linear/GitHub/GitLab delegation + automations. YC S26.,2026-09-06
+Replit Agent,https://replit.com/products/agent,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] replit.com/products/agent 403 bot wall; product known live,2026-09-06
+Roo Code,https://github.com/RooCodeInc/Roo-Code,Coding Agent,Open Source,Free,IDE Extension,green,[Active] HTTP 200 OK,2026-09-06
+Sakana Fugu (フグ),https://sakana.ai/fugu/,Coding Agent,,,,green,[NEW vs seed] [Active] Tokyo Sakana AI multi-agent-as-a-model API; drop-in for Codex/Claude Code orchestration. Alive Japan coding-agent surface.,2026-09-06
+Sandcastle,https://github.com/mattpocock/sandcastle,Coding Agent,Open Source,Free,API,green,[Active] HTTP 200 OK,2026-09-06
+Slate (RandomLabs),https://randomlabs.ai,Coding Agent,Proprietary,Subscription,CLI,green,[Active] HTTP 200 OK; title=Random Labs,2026-09-06
+Solver,https://solver.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=SOLVER AI - The first continuous content-to-campaign marketing platform for merchants,2026-09-06
+Sourcery,https://sourcery.ai,Coding Agent,Proprietary,Free,Cloud,green,[Active] HTTP 200; redirects to https://www.sourcery.ai/; title=AI Code Reviews | Sourcery | Try for Free,2026-09-06
+Superconductor,https://www.superconductor.com/,Coding Agent,Proprietary,BYOK + workspace credits,Cloud,green,"[NEW vs seed] [Active] Cloud multi-agent coding platform: run Claude Code, Codex, Amp, OpenCode, Pi, Factory Droid, Grok Build, Cursor with live preview + guided review. Docs: superconductor.com/docs/agents",2026-09-06
+SWE-Agent (Princeton),https://github.com/swe-agent/swe-agent,Coding Agent,Open Source,Free,Self-Hosted,green,[Active] HTTP 200 OK,2026-09-06
+Sweep AI,https://sweep.dev/,Coding Agent,Proprietary,Freemium,Hybrid,green,[Active] HTTP 200 OK; title=Sweep - AI for JetBrains IDEs,2026-09-06
+T3 Code,https://t3.codes,Coding Agent,Open Source,Free,Local,green,[Active] HTTP 200 OK; title=T3 Code,2026-09-06
+Tabnine,https://tabnine.com,Coding Agent,Proprietary,Free,IDE Extension,green,[Active] HTTP 200; redirects to https://www.tabnine.com/; title=Tabnine AI Code Assistant | Smarter AI Coding Agents. Total Enterprise Control.,2026-09-06
+Tembo,https://www.tembo.io/,Coding Agent,,,,green,[NEW vs seed] [Active] Managed BYOA control plane: schedule/event-triggered Claude Code/Codex/Cursor/OpenCode/Amp across repos from Slack/Linear/GitHub.,2026-09-06
+Tencent CodeBuddy (腾讯云代码助手),https://www.codebuddy.cn,Coding Agent,,,,green,[NEW vs seed] [Active] Tencent Cloud coding assistant: plugins + CodeBuddy IDE + CodeBuddy Code CLI; Craft Agent; Hunyuan. Intl codebuddy.ai returned banned path on check — use CN/Tencent Cloud URLs. Alive. Missing from seed.,2026-09-06
+Terragon Labs,https://terragonlabs.com,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200; redirects to https://www.terragonlabs.com/; title=Terragon Shutdown,2026-09-06
+Tongyi Lingma,https://tongyi.aliyun.com/lingma,Coding Agent,Proprietary,Free,IDE Extension,green,[Pivoted] lingma.aliyun.com 200; rebranded to Qoder CN May 2026,2026-09-06
+Trae Agent,https://github.com/bytedance/trae-agent,Coding Agent,Open Source,Free,CLI,green,[Active] github.com/bytedance/trae-agent 200,2026-09-06
+Trae AI,https://trae.ai,Coding Agent,Proprietary,Free,IDE Extension,green,[Active] trae.ai -> www.trae.ai 200,2026-09-06
+Trae SOLO,https://www.trae.ai/work,Coding Agent,Proprietary,Freemium,Hybrid,green,[Active] trae.ai/work 200 Beta,2026-09-06
+Twill.ai,https://twill.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=Twill - The Software Factory for Your Team,2026-09-06
+uzi,https://github.com/devflowinc/uzi,Coding Agent,Open Source,Free,CLI,green,[Active] HTTP 200 OK,2026-09-06
+V12,https://v12.sh,Coding Agent,Proprietary,Pay-per-Use,Cloud,green,[Active] HTTP 200 OK; title=V12,2026-09-06
+Vibe Kanban,https://github.com/BloopAI/vibe-kanban,Coding Agent,,,,green,[NEW vs seed] [Active] Show HN 195/132 (2025-07-11). Kanban control plane for multiple coding agents.,2026-09-06
+Void,https://voideditor.com,Coding Agent,Open Source,Free,IDE Extension,green,[Active] voideditor.com 200,2026-09-06
+Warp,https://www.warp.dev/,Coding Agent,Proprietary (client AGPL-3.0 open source),Freemium / paid plans,Local + Cloud,green,[Active] Agentic Development Environment: terminal + Warp Agent (local/cloud). Client open-source AGPL-3.0 (warpdotdev/warp). Docs https://docs.warp.dev/ HTTP 200 2026-09-06.,2026-09-06
+Warp Agent CLI,https://docs.warp.dev/agents/cli/,Coding Agent,Proprietary (client AGPL-3.0 open source),Warp account / API key,Local CLI (+ cloud handoff),green,[Active] [NEW vs seed] Standalone `warp` CLI: same Warp Agent harness outside the Warp app; cloud handoff; /orchestrate multi-agent; Factory MCP exchange. Install via curl or brew cask warp-agent-cli. HTTP 200 2026-09-06. Distinct coding-agent surface from the desktop ADE.,2026-09-06
+Warp Factories,https://docs.warp.dev/factories/,Coding Agent,Proprietary (client AGPL-3.0 open source),Early Access / Warp plans,Cloud (multi-agent factory),green,"[Active] [NEW vs seed] Early Access cloud software factory: foreman + triage/spec/implement/review agents, definitions-as-code, Factory MCP, multi-harness. Built on Automation Platform. Blog https://www.warp.dev/blog/open-infrastructure-for-building-a-software-factory. HTTP 200 2026-09-06. Classic multiplayer/orchestration miss.",2026-09-06
+Warp Oz (Automation Platform),https://www.warp.dev/oz,Coding Agent,Proprietary (client AGPL-3.0 open source),Warp plans / Enterprise,Cloud (orchestration),green,"[Active] [RENAME] Oz is now the Automation Platform (docs.warp.dev/platform/overview/). Cloud agent orchestration control plane: multi-harness (Warp Agent, Claude Code, Codex), environments, schedules, API/SDK, self-host. oz CLI + Oz web app keep Oz name until 2026-10-06. Live https://www.warp.dev/oz HTTP 200. Blog: warp.dev/blog/oz-orchestration-platform-cloud-agents. Was missing from curated as distinct surface after seed Category=Agent Framework.",2026-09-06
+WaveCode,https://wavecode.ai,Coding Agent,Proprietary,Subscription,Cloud,green,[Active] HTTP 200 OK; title=WaveCode.dev - The Future of Agentic Development,2026-09-06
+What The Diff,https://whatthediff.ai,Coding Agent,Proprietary,Free,Cloud,green,[Active] HTTP 200 OK; title=What The Diff – AI powered code review assistant,2026-09-06
+Windsurf,https://windsurf.com,Coding Agent,Proprietary,Free,IDE Extension,green,[Acquired] windsurf.com -> devin.ai/desktop; Cognition acquired Jul 2025; Devin Desktop Jun 2026,2026-09-06
+ZCode,https://zcode.z.ai,Coding Agent,Proprietary,Freemium,Cloud,green,[Active] HTTP 200 OK; title=ZCode | GLM-5.3 官方 Harness,2026-09-06
+Zed AI,https://zed.dev,Coding Agent,Open Source,Free,IDE Extension,green,[Active] zed.dev 200,2026-09-06
+Zencoder,https://zencoder.ai/,Coding Agent,Open-Core,Enterprise,Hybrid,green,[Active] HTTP 200 OK; title=Zencoder | The AI Coding Agent,2026-09-06
+Aether,https://www.runaether.dev/,Coding Agent,,,,yellow,[NEW vs seed] [Active] Show HN 3/3 (2026-07-11) — low signal but in-scope. Watchable cloud devboxes for Claude Code/Codex/OpenCode.,2026-09-06
+Agent Swarm,https://docs.agent-swarm.dev/,Coding Agent,,,,yellow,[NEW vs seed] [Active] OSS swarm OS: lead agent + Docker workers; harness abstraction for Claude Code/Codex/Devin/opencode/pi.,2026-09-06
+Ante,https://github.com/AntigmaLabs/ante,Coding Agent,,,,yellow,[NEW vs seed] [Active] Show HN 169/93 (2026-08-10). Single-binary offline coding agent.,2026-09-06
+Asynkor,https://github.com/asynkor/asynkor,Coding Agent,,,,yellow,"[NEW vs seed] [Active] Multi-machine multiplayer coordination for MCP agents (file leases, shared memory); early OSS signal.",2026-09-06
+Atomic,https://github.com/bastani-inc/atomic,Coding Agent,,,,yellow,[NEW vs seed] [Active] Verifiable agent runtime [lane4 live verify],2026-09-06
+Clawk,https://github.com/clawkwork/clawk,Coding Agent,,,,yellow,[NEW vs seed] [Active] Show HN 226/158 (2026-07-13). Disposable Linux VMs for coding agents (sandbox harness).,2026-09-06
+Codegen (ClickUp),https://codegen.com/,Coding Agent,Proprietary,Subscription,Cloud,yellow,[Acquired] codegen.com 200; acquired by ClickUp,2026-09-06
+Cody,https://sourcegraph.com/cody,Coding Agent,Proprietary,Free,IDE Extension,yellow,[Active] sourcegraph.com/cody -> docs/cody 200,2026-09-06
+Devon,https://devon.ai,Coding Agent,Open Source,Free,CLI,yellow,[Active] devon.ai TLS fail; github.com/entropy-research/Devon 200,2026-09-06
+Fine,https://fine.dev,Coding Agent,Proprietary,Subscription,Cloud,yellow,[Unknown] fine.dev HTTP 402,2026-09-06
+FleetCode,https://github.com/built-by-as/FleetCode,Coding Agent,,,,yellow,[NEW vs seed] [Active] Show HN 103/52 (2025-10-08). OSS UI for running multiple coding agents.,2026-09-06
+Gas Town,https://github.com/steveyegge/gastown,Coding Agent,Open Source,Free,CLI,yellow,[Active] github.com/steveyegge/gastown -> gastownhall/gastown 200; seed Caution,2026-09-06
+Gastown,https://github.com/gastown-ai/gastown,Coding Agent,Open Source,Free,Self-Hosted,yellow,[Unknown] github.com/gastown-ai/gastown 404; steveyegge/gastown -> gastownhall/gastown 200,2026-09-06
+Google Antigravity,https://antigravity.google/,Coding Agent,Proprietary,Subscription,Cloud,yellow,[Active] seed cloud.google.com/antigravity 404; antigravity.google 200,2026-09-06
+GPT Engineer,https://gptengineer.app,Coding Agent,Open Source,Free,Cloud,yellow,[Pivoted] gptengineer.app redirects to lovable.dev,2026-09-06
+Graphite,https://graphite.com/,Coding Agent,Open-Core,Free,Cloud,yellow,[Acquired] graphite.com 200; acquired by Cursor 2025,2026-09-06
+Jean,https://jean.dev,Coding Agent,Open Source,Free,CLI,yellow,[Unknown] jean.dev TLS EOF,2026-09-06
+Juggler,https://github.com/juggler-ai/juggler,Coding Agent,,,,yellow,[NEW vs seed] [Active] Show HN 280/119 (2026-07-12). OSS GUI coding agent by JUCE creator.,2026-09-06
+Kimi Agent / OK Computer,https://www.kimi.com/agent,Coding Agent,,,,yellow,[NEW vs seed] [Active] Moonshot Kimi agent mode. Not in coding-agent seed as dedicated coding surface.,2026-09-06
+Kimi Work (月之暗面 Kimi Work),https://www.kimi.com,Coding Agent,,,,yellow,[NEW vs seed] [Active] Moonshot desktop computer-use / work agent. Coding dedicated surface is Kimi Code. Yellow adjacent.,2026-09-06
+Liner (라이너),https://liner.com,Coding Agent,,,,yellow,[NEW vs seed] [Active] Korea AI research/search agent with MCP for IDEs. Not a full coding IDE. Yellow adjacent.,2026-09-06
+Magic AI,https://magic.dev,Coding Agent,Proprietary,Subscription,Cloud,yellow,[Active] magic.dev 200,2026-09-06
+MarsCode,https://www.marscode.com,Coding Agent,Proprietary,Free,IDE Extension,yellow,[Active] marscode.com 200; overlaps Trae lineage,2026-09-06
+Mentat (AbanteAI),https://github.com/AbanteAI/archive-old-cli-mentat,Coding Agent,Open-Core,Subscription,Cloud,yellow,[Pivoted] mentat.ai DNS fail; CLI archived per seed,2026-09-06
+Mistral Vibe,https://mistral.ai/vibe,Coding Agent,Open Source,Free,CLI,yellow,[Pivoted] mistral.ai/vibe -> chat.mistral.ai/chat,2026-09-06
+Neovate Code,https://github.com/neovateai/neovate-code,Coding Agent,,,,yellow,[NEW vs seed] [Active] Ant Group CLI [lane4 live verify],2026-09-06
+Paperclip,https://paperclipai-paperclip.mintlify.app/agents/overview,Coding Agent,,,,yellow,[NEW vs seed] [Active] Control-plane adapters/heartbeats for Claude Code/Codex and remote HTTP agents; early orchestration layer.,2026-09-06
+PearAI,https://pearai.app,Coding Agent,Open Source,Free,IDE Extension,yellow,[Active] pearai.app NXDOMAIN; trypear.ai 200,2026-09-06
+Supermaven,https://supermaven.com,Coding Agent,Proprietary,Free,IDE Extension,yellow,[Acquired] Historically acquired by Cursor 2024; site may redirect/brand,2026-09-06
+Terminal Use,https://www.youtube.com/watch?v=iWHs5wOtbrk,Coding Agent,,,,yellow,[NEW vs seed] [Active] NEW obscure: YC W26 coding harness / Vercel-for-background-agents. Official + explainer YouTube demos. Forkable filesystem checkpoints. Missing from seed likely.,2026-09-06
+Warp Drive,https://docs.warp.dev/features/warp-drive,Agent Infrastructure,Proprietary (client AGPL-3.0 open source),Included with Warp,Cloud sync (in-terminal),yellow,[Active] [EVALUATED] Real productized surface (also https://www.warp.dev/drive HTTP 200) but NOT an agentic coding agent — team sync workspace for Workflows/Notebooks/Prompts/Env vars. Include only as Warp-family adjacency; do not score as coding agent. Prefer exclude from coding-only encyclopedia views.,2026-09-06
+Wrtn (뤼튼),https://wrtn.ai,Coding Agent,,,,yellow,[NEW vs seed] [Active] Korea lifestyle AI platform; coding secondary. Yellow adjacent for Asia sweep completeness.,2026-09-06
+Zot,https://www.zot.sh,Coding Agent,,,,yellow,[NEW vs seed] [Active] Show HN 107/82 (2026-05-29). Coding agent harness.,2026-09-06
+Bismuth,https://bismuth.cloud,Coding Agent,Proprietary,Free,Cloud,red,[Dead] bismuth.cloud NXDOMAIN,2026-09-06
+Canopy,https://canopy.dev,Coding Agent,Proprietary,Free,Local,red,[Dead] canopy.dev NXDOMAIN,2026-09-06
+Catnip,https://github.com/catnip-ai/catnip,Coding Agent,Open Source,Free,Self-Hosted,red,[Dead] github.com/catnip-ai/catnip 404,2026-09-06
+Cisco Antares,https://github.com/cisco-foundation-ai/antares,Coding Agent,Open Source,Free,Local,red,[Dead] github.com/cisco-foundation-ai/antares 404; seed Active stale,2026-09-06
+Claude-Swarm,https://github.com/parruda/claude-swarm,Coding Agent,Open Source,Free,CLI,red,[Unknown] github.com/parruda/claude-swarm 404,2026-09-06
+CliDeck,https://github.com/clideck/clideck,Coding Agent,Open Source,Free,CLI,red,[Dead] github.com/clideck/clideck 404,2026-09-06
+CodeMote,https://codemote.app,Coding Agent,Proprietary,Subscription,Cloud,red,[Dead] codemote.app NXDOMAIN; seed was Active,2026-09-06
+HiveTerm,https://hiveterm.dev,Coding Agent,Proprietary,Free,Local,red,[Dead] hiveterm.dev NXDOMAIN,2026-09-06
+Hyperagent,https://hyperagent.so,Coding Agent,Proprietary,Subscription,Cloud,red,[Dead] hyperagent.so NXDOMAIN,2026-09-06
+Lula,https://github.com/lula-ai/lula,Coding Agent,Open Source,Free,CLI,red,[Dead] github.com/lula-ai/lula 404,2026-09-06
+Mutable AI,https://mutable.ai,Coding Agent,Proprietary,Free,Cloud,red,[Dead] mutable.ai DNS NXDOMAIN,2026-09-06
+Orca,https://stably.ai/orca,Coding Agent,Proprietary,Free,Cloud,red,[Dead] stably.ai/orca 404; stably.ai root 200,2026-09-06
+Ruflo,https://github.com/ruflo-ai/ruflo,Coding Agent,Open Source,Free,CLI,red,[Dead] github.com/ruflo-ai/ruflo 404,2026-09-06
+Runfusion,https://github.com/runfusion/runfusion,Coding Agent,Open Source,Free,Self-Hosted,red,[Dead] github.com/runfusion/runfusion 404,2026-09-06
+Sculptor,https://sculptor.dev,Coding Agent,Proprietary,Free,CLI,red,[Dead] sculptor.dev NXDOMAIN,2026-09-06
+Superset,https://superset.dev,Coding Agent,Proprietary,Free,Local,red,[Dead] superset.dev NXDOMAIN,2026-09-06
