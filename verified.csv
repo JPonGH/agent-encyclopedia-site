@@ -378,3 +378,40 @@ YaoApp/yao,https://github.com/YaoApp/yao,Coding Agent,Unknown,Unknown,Unknown,gr
 YoanWai/agent-manager,https://github.com/YoanWai/agent-manager,Coding Agent,Unknown,Unknown,Unknown,green,GH YoanWai/agent-manager: 403★ pushed 2026-09-06T17:21:12Z; HTTP 200 GitHub - YoanWai/agent-manager: The fastest workflow for every AI coding agent.,2026-09-07
 yohey-w/multi-agent-shogun,https://github.com/yohey-w/multi-agent-shogun,Coding Agent,Unknown,Unknown,Unknown,green,"Claude Code multi-agent orchestrator multi-agent-shogun (~1.4k★, push 2026-08-06).; GH yohey-w/multi-agent-shogun.; GH yohey-w/multi-agent-shogun: ★1420 pushed 2026-08-06; fundingNote: OSS.",2026-09-07
 zhukunpenglinyutong/desktop-cc-gui,https://github.com/zhukunpenglinyutong/desktop-cc-gui,Coding Agent,Unknown,Unknown,Unknown,green,GH zhukunpenglinyutong/desktop-cc-gui: ★4171 push 2026-09-07 archived=False; Tauri multi-engine desktop client for Claude Code/Codex/Gemini/OpenCode/DeepSeek.,2026-09-07
+aeon,https://github.com/aeonfun/aeon,Coding Agent,Unknown,Unknown,Unknown,green,gh aeonfun/aeon stars 717 pushed 2026-09-07,2026-09-07
+AMAP-ML/LongHorizon-Harness,https://github.com/AMAP-ML/LongHorizon-Harness,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=1474 pushed_at=2026-08-20; lh-harness.pages.dev; arXiv 2608.01964.,2026-09-07
+asklokesh/loki-mode,https://github.com/asklokesh/loki-mode,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active spec-driven autonomous coding agent/SDLC framework (Loki/Autonomi); push Sep 2026.,2026-09-07
+awslabs/cli-agent-orchestrator,https://github.com/awslabs/cli-agent-orchestrator,Coding Agent,Unknown,Unknown,Unknown,green,gh ★1232 pushed 2026-09-07; PyPI cli-agent-orchestrator.,2026-09-07
+codeaholicguy/ai-devkit,https://github.com/codeaholicguy/ai-devkit,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active local-first control plane for Claude Code/Codex/Gemini/OpenCode/Cursor/Devin; push Sep 2026.,2026-09-07
+CoderLuii/HolyClaude,https://github.com/CoderLuii/HolyClaude,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active AI coding workstation bundling Claude Code + web UI + multi-CLI; push Sep 2026.,2026-09-07
+deepcoldy/botmux,https://github.com/deepcoldy/botmux,Coding Agent,Unknown,Unknown,Unknown,green,gh deepcoldy/botmux stars 1364 pushed 2026-09-07,2026-09-07
+elirantutia/vibeyard,https://github.com/elirantutia/vibeyard,Coding Agent,Unknown,Unknown,Unknown,green,gh elirantutia/vibeyard stars 1367 pushed 2026-09-03,2026-09-07
+funador/claude-code-merge-queue,https://github.com/funador/claude-code-merge-queue,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Maintained local merge-queue orchestrator for parallel Claude Code agents; active Aug 2026.,2026-09-07
+gi-dellav/zerostack,https://github.com/gi-dellav/zerostack,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Maintained minimal Rust coding agent with subagents/memory; active Sep 2026.,2026-09-07
+Gitlawb/zero,https://github.com/Gitlawb/zero,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Actively maintained Go terminal coding agent; distinct from Gitlawb/openclaude; push Sep 2026.,2026-09-07
+greyhaven-ai/autocontext,https://github.com/greyhaven-ai/autocontext,Coding Agent,Unknown,Unknown,Unknown,green,gh greyhaven-ai/autocontext stars 1291 pushed 2026-09-02,2026-09-07
+hcom,https://github.com/aannoo/hcom,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=482 pushed 2026-08-09; brew aannoo/hcom/hcom.,2026-09-07
+hesamsheikh/octogent,https://github.com/hesamsheikh/octogent,Coding Agent,Unknown,Unknown,Unknown,green,gh hesamsheikh/octogent stars 1413 pushed 2026-04-20,2026-09-07
+hotovo/aider-desk,https://github.com/hotovo/aider-desk,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=1417 pushed_at=2026-09-07; aiderdesk.hotovo.com; Discord.,2026-09-07
+hueyexe/opencode-ensemble,https://github.com/hueyexe/opencode-ensemble,Coding Agent,Unknown,Unknown,Unknown,green,gh hueyexe/opencode-ensemble stars 213 pushed 2026-08-25,2026-09-07
+Intrect-io/OpenSwarm,https://github.com/Intrect-io/OpenSwarm,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=849 pushed 2026-09-07.,2026-09-07
+itayinbarr/little-coder,https://github.com/itayinbarr/little-coder,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Maintained coding-agent harness tuned for small local LLMs on pi; push Aug 2026.,2026-09-07
+limecloud/lime,https://github.com/limecloud/lime,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active open-source full-stack desktop AI agent with coding/terminal/multi-agent workflows.,2026-09-07
+LiteLLM-Labs/litellm-agent-control-plane,https://github.com/LiteLLM-Labs/litellm-agent-control-plane,Coding Agent,Unknown,Unknown,Unknown,green,gh LiteLLM-Labs/litellm-agent-control-plane stars 1279 pushed 2026-06-20,2026-09-07
+milisp/codexia,https://github.com/milisp/codexia,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=913 pushed 2026-09-07; brew cask codexia.,2026-09-07
+modu-ai/moai-adk,https://github.com/modu-ai/moai-adk,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active SPEC-driven agentic development harness for Claude Code; push Sep 2026.,2026-09-07
+nah,https://github.com/manuelschipper/nah,Coding Agent,Unknown,Unknown,Unknown,green,gh manuelschipper/nah stars 480 pushed 2026-09-07,2026-09-07
+Nexting-ai/nexting,https://github.com/Nexting-ai/nexting,Coding Agent,Unknown,Unknown,Unknown,green,gh Nexting-ai/nexting stars 1319 pushed 2026-09-07,2026-09-07
+nori-cli,https://github.com/tilework-tech/nori-cli,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Maintained local multi-provider AI coding agent CLI/TUI; active Sep 2026.,2026-09-07
+ORCH,https://github.com/oxgeneral/ORCH,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=159 pushed 2026-08-01; npm @oxgeneral/orch.,2026-09-07
+org2AI/ORG2,https://github.com/org2AI/ORG2,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active Rust coding-agent harness + launchers for 20+ CLIs with trajectory system-of-record; push Sep 2026.,2026-09-07
+Priivacy-ai/spec-kitty,https://github.com/Priivacy-ai/spec-kitty,Coding Agent,Unknown,Unknown,Unknown,green,gh stars=1605 pushed_at=2026-09-07; spec-kitty.ai; PyPI spec-kitty-cli.,2026-09-07
+rustykuntz/clideck,https://github.com/rustykuntz/clideck,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Live coding-agent dashboard for multiple AI CLI agents; supersedes dead verified CliDeck 404 URL.,2026-09-07
+sangrokjung/claude-forge,https://github.com/sangrokjung/claude-forge,Coding Agent,Unknown,Unknown,Unknown,green,gh ★825 pushed 2026-09-03; README v4.3.0 Sep 2026 Codex hooks.,2026-09-07
+superset-sh/superset,https://superset.sh/,Coding Agent,Unknown,Unknown,Unknown,green,gh ★13870 pushed 2026-09-07; ycombinator.com/companies/superset; prior verified row pointed at NXDOMAIN superset.dev (different/wrong).,2026-09-07
+Team-Commonly/commonly,https://github.com/Team-Commonly/commonly,Coding Agent,Unknown,Unknown,Unknown,green,gh Team-Commonly/commonly stars 1326 pushed 2026-09-07,2026-09-07
+thClaws/thClaws,https://github.com/thClaws/thClaws,Coding Agent,Unknown,Unknown,Unknown,green,gh thClaws/thClaws stars 1216 pushed 2026-09-05,2026-09-07
+tigicion/dao-code,https://github.com/tigicion/dao-code,Coding Agent,Unknown,Unknown,Unknown,green,gh tigicion/dao-code stars 1254 pushed 2026-09-07,2026-09-07
+umputun/ralphex,https://github.com/umputun/ralphex,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active Ralph-style autonomous plan executor for Claude Code/Codex; push Sep 2026.,2026-09-07
+wrtnlabs/autobe,https://github.com/wrtnlabs/autobe,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active compiler-skilled vibe coding agent for TypeScript backends; push Jun 2026.,2026-09-07
+XiaoDuoYa/codex-with-chatgpt,https://github.com/XiaoDuoYa/codex-with-chatgpt,Coding Agent,Unknown,Unknown,Unknown,green,site probe 2026-09-07; Active ChatGPT-plans / Codex-executes coding workflow bridge; push Sep 2026.,2026-09-07
