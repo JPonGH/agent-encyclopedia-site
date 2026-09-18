@@ -3,30 +3,60 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="robots" content="noindex,nofollow" />
-    <meta name="description" content="A free, verified encyclopedia of coding agents and related tools." />
-    <title>Agent Encyclopedia</title>
-    <!-- build: 20260912T151448Z -->
-        <script>
-      (function () {
-        try {
-          var stored = localStorage.getItem('ae-theme');
-          var mode = stored === 'light' || stored === 'dark' || stored === 'system' ? stored : 'system';
-          var dark =
-            mode === 'dark' ||
-            (mode === 'system' &&
-              window.matchMedia('(prefers-color-scheme: dark)').matches);
-          document.documentElement.classList.toggle('dark', dark);
-        } catch (e) {}
-      })();
+    <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+    <meta
+      name="description"
+      content="Agent Encyclopedia has moved to its canonical Vercel deployment."
+    />
+    <meta
+      http-equiv="refresh"
+      content="0; url=https://agent-encyclopedia-tenedor-software.vercel.app/"
+    />
+    <link
+      rel="canonical"
+      href="https://agent-encyclopedia-tenedor-software.vercel.app/"
+    />
+    <title>Agent Encyclopedia moved</title>
+    <script>
+      window.location.replace(
+        'https://agent-encyclopedia-tenedor-software.vercel.app/',
+      );
     </script>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    <script type="module" crossorigin src="/agent-encyclopedia-site/assets/index-CJFAeJX2.js"></script>
-    <link rel="stylesheet" crossorigin href="/agent-encyclopedia-site/assets/index-B9eJWCfG.css">
+    <style>
+      :root {
+        color-scheme: light dark;
+        font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+      }
+
+      body {
+        display: grid;
+        min-height: 100vh;
+        margin: 0;
+        place-items: center;
+        background: Canvas;
+        color: CanvasText;
+      }
+
+      main {
+        width: min(34rem, calc(100% - 2rem));
+        text-align: center;
+      }
+
+      a {
+        color: LinkText;
+      }
+    </style>
   </head>
-  <body class="bg-zinc-50 text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100">
-    <div id="root"></div>
+  <body>
+    <main>
+      <h1>Agent Encyclopedia has moved</h1>
+      <p>
+        Continue to the
+        <a href="https://agent-encyclopedia-tenedor-software.vercel.app/"
+          >canonical Vercel edition</a
+        >.
+      </p>
+    </main>
   </body>
 </html>
